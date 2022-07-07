@@ -44,7 +44,7 @@ body {
     text-align: center;
     width: 300px;
     margin:  60px auto;
-    padding: ;
+    padding: 5px ;
     
 }
 img.avatar {
@@ -58,9 +58,9 @@ h1 {
     font-size: 32px;
     margin-top: 24px;
     margin-bottom: 8px;
-    border:
-    display: block;
-}
+    
+ }
+
 .username{
     font-family: 'Roboto Mono', monospace;
     font-weight: 400;
