@@ -1,5 +1,5 @@
 # RochetSeat
-maratona_explorer_2.0
+###### maratona_explorer_2.0
 
 
 Minha participação no projeto da Rocketseat
