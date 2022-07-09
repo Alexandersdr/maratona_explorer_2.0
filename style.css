@@ -44,7 +44,11 @@ body {
     text-align: center;
     width: 300px;
     margin:  60px auto;
+<<<<<<< Updated upstream
     padding: 5px ;
+=======
+   
+>>>>>>> Stashed changes
     
 }
 img.avatar {
@@ -58,9 +62,14 @@ h1 {
     font-size: 32px;
     margin-top: 24px;
     margin-bottom: 8px;
+<<<<<<< Updated upstream
     
  }
 
+=======
+    display: block;
+}
+>>>>>>> Stashed changes
 .username{
     font-family: 'Roboto Mono', monospace;
     font-weight: 400;
